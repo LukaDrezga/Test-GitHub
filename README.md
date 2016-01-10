@@ -1,2 +1,24 @@
-# Test-GitHub
-10.1.2016. GitHub tutorial
+TestGithub
+
+TestGitHub is a repository for me to learn GitHub via YouTube tutorial.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
